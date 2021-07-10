@@ -46,8 +46,6 @@ def get_audio():
 
 #if "hello" in text:
     #speak("Hello, how are you?")
-#if "who are you" in text:
-    #speak("I am Supreme Overlord's underling,degenerate!")
 #if "My name is Luke" in text:
     #speak("Luke, I am your father!")
 
